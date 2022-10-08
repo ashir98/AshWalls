@@ -15,6 +15,7 @@ class CategoryTile extends StatelessWidget {
       padding:  EdgeInsets.symmetric(horizontal: 0.5.h, vertical: 0.5.h),
       
         child: Container(
+          ////??????????/
           decoration: BoxDecoration(
               borderRadius: BorderRadius.circular(15),
               image:  DecorationImage(
